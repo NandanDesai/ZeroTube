@@ -12,5 +12,5 @@ Link: http://capricasoftware.co.uk/#/projects/vlcj
 *A similar app already exists on Android platform which is extremely awesome.
 Link: https://github.com/TeamNewPipe/NewPipe
 
-This project should be a clear object-oriented appproach.
+This project should be a clear object-oriented approach.
 
