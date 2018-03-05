@@ -6,11 +6,11 @@ I am still not sure if this is going to work but here is the plan:
 *We will use Jsoup to parse the HTML page and get elements from it.
 Link: https://jsoup.org/
 
-*We will use VLCJ to embed a video player into our application.
-Link: http://capricasoftware.co.uk/#/projects/vlcj
+*I am currently developing a library for extracting YouTube data. This library will be used for fetching the content.
+Link: https://github.com/NandanDesai/YouTubeDataExtractor
 
 *A similar app already exists on Android platform which is extremely awesome.
 Link: https://github.com/TeamNewPipe/NewPipe
 
-This project should be a clear object-oriented approach.
+Electron framework will be used to develop this desktop application.
 
